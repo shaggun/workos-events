@@ -1,0 +1,23 @@
+{
+  "event": "dsync.group.user_removed",
+  "data": {
+    "directory_id": "directory_edp_01E1X194NTJ3PYMAY79DYV0F0P",
+    "user": {
+      "id": "directory_usr_01E1X56GH84T3FB41SD6PZGDBX",
+      "first_name": "Eric",
+      "username": "eric@example.com",
+      "last_name": "Schneider",
+      "emails": [
+        {
+          "type": "work",
+          "value": "eric@example.com",
+          "primary": true
+        }
+      ]
+    },
+    "group": {
+      "id": "directory_grp_01E1X5GPMMXF4T1DCERMVEEPVW",
+      "name": "Developers"
+    }
+  }
+}

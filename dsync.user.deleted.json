@@ -1,0 +1,17 @@
+{
+  "event": "dsync.user.deleted",
+  "data": {
+    "directory_id": "directory_edp_01E1X194NTJ3PYMAY79DYV0F0P",
+    "id": "directory_usr_01E1X1B89NH8Z3SDFJR4H7RGX7",
+    "first_name": "Veda",
+    "username": "veda@example.com",
+    "last_name": "Block",
+    "emails": [
+      {
+        "type": "work",
+        "value": "veda@example.com",
+        "primary": true
+      }
+    ]
+  }
+}

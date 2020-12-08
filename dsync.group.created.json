@@ -1,0 +1,49 @@
+{
+  "event": "dsync.group.created",
+  "data": {
+    "directory_id": "directory_edp_01E1X194NTJ3PYMAY79DYV0F0P",
+    "id": "directory_grp_01E1X5GPMMXF4T1DCERMVEEPVW",
+    "name": "Developers",
+    "users": [
+      {
+        "id": "directory_usr_01E1X2NKBWA5YDYF23Q7G45YGA",
+        "first_name": "Kiana",
+        "username": "kiana@example.com",
+        "last_name": "Flatley",
+        "emails": [
+          {
+            "type": "work",
+            "value": "kiana@example.com",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "id": "directory_usr_01E1X1B89NH8Z3SDFJR4H7RGX7",
+        "first_name": "Veda",
+        "username": "veda@example.com",
+        "last_name": "Block",
+        "emails": [
+          {
+            "type": "work",
+            "value": "veda@example.com",
+            "primary": true
+          }
+        ]
+      },
+      {
+        "id": "directory_usr_01E1X56GH84T3FB41SD6PZGDBX",
+        "first_name": "Eric",
+        "username": "eric@example.com",
+        "last_name": "Schneider",
+        "emails": [
+          {
+            "type": "work",
+            "value": "eric@example.com",
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}
