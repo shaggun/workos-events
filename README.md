@@ -18,12 +18,12 @@ Omitted:
 dsync.user.updated
 ```
 Info to update user name?
-
+***
 ```
 dsync.group.updated
 ```
 Property to update group name.
-
+***
 ``` 
 dsync.group.group_deleted
 ```
