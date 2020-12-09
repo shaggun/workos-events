@@ -23,6 +23,16 @@ Info to update user name?
 dsync.group.updated
 ```
 Property to update group name.
+```
+{
+  "event": "dsync.group.updated",
+  "data": {
+    "directory_id": "directory_edp_01E1X194NTJ3PYMAY79DYV0F0P",
+    "id": "directory_grp_01E1X1B89NH8Z3SDFJR4H7RGX7",
+    "name": "Developers"
+  }
+}
+```
 ***
 ``` 
 dsync.group.group_deleted
